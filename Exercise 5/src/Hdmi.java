@@ -1,3 +1,0 @@
-interface Hdmi {
-    void connectWithHDMI();
-}
